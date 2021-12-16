@@ -45,6 +45,10 @@ Final Accuracy vs. Epoch:
 
 # Results
 
-Here are some of the results after hooking up the model with real-time facial detection and replacement technology:
+Here are some of the results after hooking up the model with real-time facial detection and replacement technology. The actual face is put off to the left, and the resulting display to the right:
 
+![Happy](plots/happy-img.png)
 
+![Sad](plots/sad-img.png)
+
+![Angry](plots/angry-img.png)
