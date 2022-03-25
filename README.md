@@ -1,7 +1,5 @@
 # Emojify
 
-TODO: -- video --
-
 # Abstract
 Emojis are images and icons which allow us to express nonverbal emotions. They have become an integral part of online messaging, chatting, product review, brand expression, and more. However, emoji-driven storytelling has still remained a relatively unexplored portion of data science research, despite the numerous applications. With advancements in computer vision and deep learning, we are increasing our abilities to detect human emotions from images. In this project, I detect and classify human facial expressions in order to map them to corresponding emojis. This then allows facial expressions to be replaced by their corrosponding emojis in real time. 
 
